@@ -1,1 +1,1 @@
-In order traversal of a Binary Search tree using Stack
+In order traversal of a Binary Search Tree using Stack
